@@ -1,4 +1,4 @@
-# Sales Data Report
+# Sales Report
 This file is a Sales data which comprises of 14 columns which is as follows: OrderID, Date, CustomerID, Products, Quantity, UnitPrice, ShippingAddress, PaymentMethod, OrderStatus, TrackingNumber, ItemsinCart, CouponCode, ReferralSource and TotalPrice
 
 For Task 1 which is this repository, its a fondation phase: Data cleaning and preparation. Before we build a single predictive model we must first of all clean the messy datasets into reliable sources of truth.
